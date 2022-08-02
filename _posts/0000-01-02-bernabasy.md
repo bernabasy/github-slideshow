@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text updeted
+am making ediot on comite
 Use the left arrow to go back!
